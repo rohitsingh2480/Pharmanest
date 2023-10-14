@@ -1,0 +1,42 @@
+.container-fluid{
+    margin-left:-1090px;
+}
+.container{
+    margin-left: 37px;
+}
+
+h5{
+    text-align: center;
+   
+}
+.text-muted{
+    margin-left: 155px;
+}
+marquee{
+    font-size: 75px;
+    font-weight: bold;
+    color: black;
+}
+
+.card{
+    border: 2px solid black;
+}
+.card:hover{
+    background-color:#f2f2f2;
+
+}
+.photo{
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+}
+#xyz{
+    width:425px;  
+  }
+#Pharmanest{
+   margin-left:20px;
+}
+#searchh{
+    margin-right: 10px;
+}
+ 
